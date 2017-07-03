@@ -1,2 +1,10 @@
-requests
-Faker
+certifi==2017.4.17
+chardet==3.0.4
+Faker==0.7.17
+idna==2.5
+ipaddress==1.0.18
+python-dateutil==2.6.0
+requests==2.18.1
+six==1.10.0
+urllib3==1.21.1
+virtualenv==15.1.0
